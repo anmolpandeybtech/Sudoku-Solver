@@ -16,7 +16,8 @@ while True:
         break
     print('Row ' + str(len(grid)) + ' Complete')
 
-time.sleep(1)
+time.sleep(7
+)
 
 def possible(x, y, n):
     for i in range(0, 9):
